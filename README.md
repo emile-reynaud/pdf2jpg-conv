@@ -27,7 +27,8 @@ Or you can just install the latest release.
 #### Icon
 
 [Pdf file icons created by riajulislam - Flaticon](https://www.flaticon.com/free-icons/pdf-file) <br>
-[Jpeg icons created by riajulislam - Flaticon](https://www.flaticon.com/free-icons/jpeg)
+[Jpeg icons created by riajulislam - Flaticon](https://www.flaticon.com/free-icons/jpeg) <br>
+[Arrows icons created by Creative Stall Premium - Flaticon](https://www.flaticon.com/free-icons/arrows)
 
 #### Tutorial for poppler installation
 
