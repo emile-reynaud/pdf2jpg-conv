@@ -16,11 +16,9 @@ The libraries used in this program are tkinter, pdf2image and os.
     - Click on New
     - Then add the path to the bin poppler folder
     - Click OK.
-4. Clone this github repository wherever you want
-5. Double-click on main.py
+4. Download the latest release
+5. Double-click on PDF2JPGconv.exe
 6. Done!
-
-Or you can just install the latest release.
 
 ## Contributions
 
