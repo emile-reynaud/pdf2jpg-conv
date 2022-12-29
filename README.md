@@ -1,4 +1,4 @@
-# PDF to JPEG converter
+# PDF2JPGconv
 
 This is a PDF to JPEG converter with GUI built using python.
 
