@@ -1,6 +1,6 @@
 # PDF2JPGconv
 
-This is a PDF to JPEG converter with GUI built using python.
+This is a PDF to JPEG converter with GUI built using Python.
 
 The libraries used in this program are tkinter, pdf2image and os.
 
@@ -16,7 +16,7 @@ The libraries used in this program are tkinter, pdf2image and os.
     - Click on New
     - Then add the path to the bin poppler folder
     - Click OK.
-4. Download the latest release
+4. Download the latest PDF2JPGconv release
 5. Extract the archive wherever you want
 6. Double-click on PDF2JPGconv.exe
 7. Done!
