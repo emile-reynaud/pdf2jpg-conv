@@ -17,8 +17,9 @@ The libraries used in this program are tkinter, pdf2image and os.
     - Then add the path to the bin poppler folder
     - Click OK.
 4. Download the latest release
-5. Double-click on PDF2JPGconv.exe
-6. Done!
+5. Extract the archive wherever you want
+6. Double-click on PDF2JPGconv.exe
+7. Done!
 
 ## Contributions
 
