@@ -5,7 +5,7 @@ from tkinter import filedialog as fd
 import os
 
 master = Tk()
-master.title("Convert PDF to JPG")
+master.title("Convert PDF to JPEG")
 master.geometry("300x150")
 
 Label(master, text="PDF Location:").grid(row=0, sticky=W)
@@ -25,11 +25,11 @@ def pdf2img():
 		images = convert_from_path(str(e1.get()))
 
 	except :
-		Result = "NO pdf found"
+		Result = "No PDF found"
 		messagebox.showinfo("Result", Result)
 
 	else:
-		f = fd.asksaveasfilename(initialfile='Untitled.jpg', defaultextension=".jpg", filetypes=[("JPEG Documents","*.jpg"),("All Files","*.*")])
+		f = fd.asksaveasfilename(initialfile='Untitled.jpg', defaultextension=".jpg", filetypes=[("JPEG Files","*.jpg"),("All Files","*.*")])
 		for img in images:
 			img.save(f, 'JPEG')
 		Result = "Success"
