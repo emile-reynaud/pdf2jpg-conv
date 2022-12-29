@@ -6,8 +6,6 @@ The libraries used in this program are tkinter, pdf2image and os.
 
 ## Installation
 
-##### You first have to install poppler in order to use PDF2JPGconv
-
 1. Go to [this page](https://github.com/oschwartz10612/poppler-windows/releases/) and download the latest release.
 2. Extract the archive file into 'C:\Program Files'.
 3. Add the path to the bin poppler folder to your system PATH by doing the following: 
@@ -18,12 +16,17 @@ The libraries used in this program are tkinter, pdf2image and os.
     - Click on New
     - Then add the path to the bin poppler folder
     - Click OK.
+4. Clone this github repository wherever you want
+5. Double-click on main.py
+6. Done!
+
+Or you can just install the latest release.
 
 ## Contributions
 
 #### Icon
 
-[Pdf file icons created by riajulislam - Flaticon](https://www.flaticon.com/free-icons/pdf-file)
+[Pdf file icons created by riajulislam - Flaticon](https://www.flaticon.com/free-icons/pdf-file) <br>
 [Jpeg icons created by riajulislam - Flaticon](https://www.flaticon.com/free-icons/jpeg)
 
 #### Tutorial for poppler installation
